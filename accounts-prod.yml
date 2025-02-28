@@ -3,7 +3,7 @@ build:
   version: "{cipher}1dd0c7ceee7b4a2f3b5ddc6feb328b831b916fb848b3e66c39d46f1c17f6c1ec"
 
 accounts:
-  message: "Welcome to EazyBank accounts related productions APIs from Webhook Github"
+  message: "Welcome to EazyBank accounts related prod APIs from Webhook Github"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}661568264f7479d650328b70b9f54f24298fe36ff88a3ffccea05cf7658e51c59fea9ef4b14ace703df52fddbc469893"
