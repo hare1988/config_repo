@@ -3,7 +3,7 @@ build:
   version: "3.2"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs : Test BushRefresh"
+  message: "Welcome to EazyBank accounts related local APIs : Test BushRefresh with Docker"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
