@@ -3,7 +3,7 @@ build:
   version: "2.2"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs"
+  message: "Welcome to EazyBank accounts related QA APIs :Test BusRefresh with Github Webhook.."
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
